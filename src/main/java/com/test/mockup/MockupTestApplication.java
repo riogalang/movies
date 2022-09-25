@@ -1,13 +1,13 @@
-package com.test.danafixtest;
+package com.test.mockup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DanafixTestApplication {
+public class MockupTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DanafixTestApplication.class, args);
+		SpringApplication.run(MockupTestApplication.class, args);
 	}
 
 }

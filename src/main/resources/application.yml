@@ -1,12 +1,12 @@
 spring:
   application:
-    name: danafix
+    name: mockup
   datasource:
-    url: jdbc:postgresql://localhost:5432/danafix-test
+    url: jdbc:postgresql://localhost:5432/mockup
     username: postgres
     password: root
 
 server:
   port: 8282
   servlet:
-    context-path: /danafix
+    context-path: /mockup

@@ -1,6 +1,6 @@
-package com.test.danafixtest.exception;
+package com.test.mockup.exception;
 
-import com.test.danafixtest.dto.Response;
+import com.test.mockup.dto.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;

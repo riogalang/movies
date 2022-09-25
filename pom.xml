@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test</groupId>
-	<artifactId>danafix-test</artifactId>
+	<artifactId>mockup-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>danafix-test</name>
+	<name>mockup-test</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

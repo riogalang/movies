@@ -1,10 +1,10 @@
-package com.test.danafixtest;
+package com.test.mockup;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DanafixTestApplicationTests {
+class MockUpTest {
 
 	@Test
 	void contextLoads() {

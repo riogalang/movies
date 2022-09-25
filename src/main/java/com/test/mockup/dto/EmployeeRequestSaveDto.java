@@ -1,8 +1,7 @@
-package com.test.danafixtest.dto;
+package com.test.mockup.dto;
 
 import lombok.*;
 
-import java.math.BigDecimal;
 import java.time.LocalDate;
 
 @Getter
@@ -17,4 +16,5 @@ public class EmployeeRequestSaveDto {
     private LocalDate birthDate;
     private String address;
     private String mobilePhone;
+    private String id;
 }

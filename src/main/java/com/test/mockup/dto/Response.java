@@ -1,4 +1,4 @@
-package com.test.danafixtest.dto;
+package com.test.mockup.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
