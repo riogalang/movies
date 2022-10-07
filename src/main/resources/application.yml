@@ -1,9 +1,9 @@
 spring:
   application:
-    name: mockup
+    name: Nostra Movie
   datasource:
-    url: jdbc:postgresql://localhost:5432/mockup
-    username: postgres
+    url: jdbc:postgresql://localhost:5432/nostramovie
+    username: Nostra
     password: root
 
 server:
